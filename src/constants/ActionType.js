@@ -1,0 +1,2 @@
+export const CHANGE_NOTIFY="CHANGE_NOTIFY";
+export const HIDE_NOTIFY  ="HIDE_NOTIFY";
